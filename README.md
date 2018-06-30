@@ -1,5 +1,4 @@
-# WPLib Logos 
-## Logos for _The Developer Experience Project for WordPress_
+# Logos for _The Developer Experience Project for WordPress_
 <br>
 <br>
 
@@ -7,7 +6,7 @@
 
 <br>
 
-### WPLib
+## WPLib
 
 - [Individual Logos](https://github.com/wplib/logos/tree/master/wplib)
 - [All Logos](https://raw.githubusercontent.com/wplib/logos/master/zips/wplib-logos.zip) _(ZIP file)_
@@ -17,7 +16,7 @@
 
 ![WPLib Box Logo](https://raw.githubusercontent.com/wplib/logos/master/wplib-box/wplib-box-logo-0.5x-horizontal.png)
 <br>
-### WPLib Box
+## WPLib Box
 
 - [Individual Logos](https://github.com/wplib/logos/tree/master/wplib-box)
 - [All Logos](https://raw.githubusercontent.com/wplib/logos/master/zips/wplib-box-logos.zip) _(ZIP file)_
